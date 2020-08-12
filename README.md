@@ -4,8 +4,7 @@ ESL Example Notebooks
 This repository contains Mathematica notebooks to replicate the
 experiments of the runnig example in
 
-    The Elements of
-    Statistical Learning:
+    The Elements of Statistical Learning:
     Data Mining, Inference, and Prediction.
     Second Edition
 
